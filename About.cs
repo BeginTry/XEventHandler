@@ -37,5 +37,11 @@ namespace XEventHandler
             lnkGitRepo.LinkVisited = true;  
             System.Diagnostics.Process.Start("https://github.com/BeginTry/XEventHandler");
         }
+
+        private void lnkQuickStart_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            lnkQuickStart.LinkVisited = true;
+            System.Diagnostics.Process.Start("https://itsalljustelectrons.blogspot.com/2017/05/SQL-Server-Extended-Event-Handling-via-gui.html");
+        }
     }
 }

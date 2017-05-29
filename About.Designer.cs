@@ -33,6 +33,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.lblCopyright = new System.Windows.Forms.Label();
             this.lnkGitRepo = new System.Windows.Forms.LinkLabel();
+            this.lnkQuickStart = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // btnOK
@@ -78,6 +79,17 @@
             this.lnkGitRepo.Text = "GitHub Repository";
             this.lnkGitRepo.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkGitRepo_LinkClicked);
             // 
+            // lnkQuickStart
+            // 
+            this.lnkQuickStart.AutoSize = true;
+            this.lnkQuickStart.Location = new System.Drawing.Point(156, 72);
+            this.lnkQuickStart.Name = "lnkQuickStart";
+            this.lnkQuickStart.Size = new System.Drawing.Size(91, 13);
+            this.lnkQuickStart.TabIndex = 4;
+            this.lnkQuickStart.TabStop = true;
+            this.lnkQuickStart.Text = "Quick Start Guide";
+            this.lnkQuickStart.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkQuickStart_LinkClicked);
+            // 
             // About
             // 
             this.AcceptButton = this.btnOK;
@@ -85,6 +97,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnOK;
             this.ClientSize = new System.Drawing.Size(284, 161);
+            this.Controls.Add(this.lnkQuickStart);
             this.Controls.Add(this.lnkGitRepo);
             this.Controls.Add(this.lblCopyright);
             this.Controls.Add(this.label1);
@@ -106,5 +119,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblCopyright;
         private System.Windows.Forms.LinkLabel lnkGitRepo;
+        private System.Windows.Forms.LinkLabel lnkQuickStart;
     }
 }
