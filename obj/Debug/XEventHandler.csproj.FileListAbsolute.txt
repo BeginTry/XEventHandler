@@ -1,0 +1,14 @@
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\bin\Debug\XEventHandler.exe.config
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\bin\Debug\XEventHandler.exe
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\bin\Debug\XEventHandler.pdb
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.csprojResolveAssemblyReference.cache
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.Properties.Resources.resources
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.SqlConnectionDialog.resources
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.csproj.GenerateResource.Cache
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.exe
+c:\users\dave.dmasonhp\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.pdb
+C:\Users\Dave.DMasonHP\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.Form1.resources
+C:\Users\Dave.DMasonHP\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.SessionPickerDialog.resources
+C:\Users\Dave.DMasonHP\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\obj\Debug\XEventHandler.About.resources
+C:\Users\Dave.DMasonHP\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\bin\Debug\Microsoft.SqlServer.XE.Core.dll
+C:\Users\Dave.DMasonHP\documents\visual studio 2015\Projects\XEventHandler\XEventHandler\bin\Debug\Microsoft.SqlServer.XEvent.Linq.dll
